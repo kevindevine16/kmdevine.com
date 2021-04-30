@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website of Jane Doe</title>
+    <link>https://example.com/ar/</link>
+    <description>Recent content on Website of Jane Doe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.com/ar/arabic/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ar/arabic/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/ar/english/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ar/english/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/ar/english/about/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ar/english/about/</guid>
+      <description>I am a postdoctoral researcher in applied and industrial mathematics, currently researching the modelling of anodes in lithium ion batteries as part of the Si-Drive international consortium.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/ar/english/contact2/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ar/english/contact2/</guid>
+      <description>If you wish to contact me, use the icon links to my social channels and email.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://example.com/ar/english/publications/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ar/english/publications/</guid>
+      <description>Journal Articles   Devine, K. M., Vynnycky, M., Mitchell, S.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/ar/english/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ar/english/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>للتواصل</title>
+      <link>https://example.com/ar/arabic/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ar/arabic/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>نموذج عربي</title>
+      <link>https://example.com/ar/arabic/post/arabic_example/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ar/arabic/post/arabic_example/</guid>
+      <description>من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.</description>
+    </item>
+    
+    <item>
+      <title>حول</title>
+      <link>https://example.com/ar/arabic/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/ar/arabic/about/</guid>
+      <description>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.</description>
+    </item>
+    
+  </channel>
+</rss>

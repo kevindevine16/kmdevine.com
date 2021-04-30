@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> </title>
+    <link>https://example.com/</link>
+    <description>Recent content on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://example.com/oldpost/testt/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/oldpost/testt/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A validated asymptotic thermomechanical model for air-gap formation in tapered moulds in the continuous casting of steel</title>
+      <link>https://example.com/post/newpub3/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/newpub3/</guid>
+      <description>My latest work has been published in the IMA Journal of Applied Mathematics.</description>
+    </item>
+    
+    <item>
+      <title>The Figure Shortcode</title>
+      <link>https://example.com/oldpost/figure-shortcode/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://example.com/oldpost/figure-shortcode/</guid>
+      <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://example.com/oldpost/placeholder-text/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/oldpost/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analysis of a model for the formation of fold-type oscillation marks in the continuous casting of steel</title>
+      <link>https://example.com/post/newpub2/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/newpub2/</guid>
+      <description>My latest work has been published in the IMA Journal of Applied Mathematics.</description>
+    </item>
+    
+    <item>
+      <title>PhD Graduation</title>
+      <link>https://example.com/post/thesis/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/thesis/</guid>
+      <description>In February 2020, I completed my PhD thesis. My PhD study was on mathematical modelling of continuous steel casting.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>I am a postdoctoral researcher in applied and industrial mathematics, currently researching the modelling of anodes in lithium ion batteries as part of the Si-Drive international consortium.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact2/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact2/</guid>
+      <description>If you wish to contact me, use the icon links to my social channels and email.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://example.com/publications/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/</guid>
+      <description>Journal Articles   Devine, K. M., Vynnycky, M., Mitchell, S.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://example.com/oldpost/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/oldpost/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://example.com/oldpost/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/oldpost/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://example.com/oldpost/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/oldpost/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://example.com/oldpost/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/oldpost/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Guide to Thumbnails in Hugo</title>
+      <link>https://example.com/oldpost/image-test/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/oldpost/image-test/</guid>
+      <description>Thumbnails can be enabled easily by setting the thumbnail parameter in the frontmatter to an image such as &amp;quot;images/landscape.</description>
+    </item>
+    
+    <item>
+      <title>On the formation of fold-type oscillation marks in the continuous casting of steel</title>
+      <link>https://example.com/post/newpub/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/newpub/</guid>
+      <description>My latest work has been published in Royal Society Open Science.</description>
+    </item>
+    
+  </channel>
+</rss>

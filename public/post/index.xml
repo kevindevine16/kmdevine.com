@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on  </title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Posts on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A validated asymptotic thermomechanical model for air-gap formation in tapered moulds in the continuous casting of steel</title>
+      <link>https://example.com/post/newpub3/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/newpub3/</guid>
+      <description>My latest work has been published in the IMA Journal of Applied Mathematics.</description>
+    </item>
+    
+    <item>
+      <title>Analysis of a model for the formation of fold-type oscillation marks in the continuous casting of steel</title>
+      <link>https://example.com/post/newpub2/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/newpub2/</guid>
+      <description>My latest work has been published in the IMA Journal of Applied Mathematics.</description>
+    </item>
+    
+    <item>
+      <title>PhD Graduation</title>
+      <link>https://example.com/post/thesis/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/thesis/</guid>
+      <description>In February 2020, I completed my PhD thesis. My PhD study was on mathematical modelling of continuous steel casting.</description>
+    </item>
+    
+    <item>
+      <title>On the formation of fold-type oscillation marks in the continuous casting of steel</title>
+      <link>https://example.com/post/newpub/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/newpub/</guid>
+      <description>My latest work has been published in Royal Society Open Science.</description>
+    </item>
+    
+  </channel>
+</rss>

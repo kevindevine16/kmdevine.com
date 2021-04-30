@@ -1,0 +1,35 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  name = "Publications"
+  weight = 400
+  identifier = "publications"
+  url = "/publications/"
+
+  #[[main]]
+  #name = "Contact"
+  #weight = 400
+  #identifier = "contact"
+  #url = "/contact/"
+
+  [[main]]
+  name = "Contact"
+  weight = 500
+  identifier = "contact2"
+  url = "/contact2/"

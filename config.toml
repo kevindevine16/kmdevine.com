@@ -1,0 +1,52 @@
+baseURL = "https://kmdevine.com"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Kevin Devine, PhD"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[params]
+disableThemeSwitcher = true # Theme switcher is enabled by default
+displayMode = "dark"
+singleDateFormat = "Mon, Jan 2, 2006"
+indexDateFormat = "Mon, Jan 2, 2006"
+listDateFormat = "Jan 2"
+mainSections = []
+doNotLoadAnimations = true # Animations are loaded by default
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # allow html code to be used in md files
+
+[deployment]
+
+[[deployment.targets]]
+name = "kmdevine.com"
+URL = "s3://kmdevine.com?region=eu-west-1"
+
+      # If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
+cloudFrontDistributionID =	"E2NV8GHJZH2E40"
+
+[[deployment.matchers]]
+      # Cache static assets for 20 years.
+pattern = "^.+\\.(js|css|png|jpg|gif|svg|ttf)$"
+cacheControl = "max-age=630720000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
