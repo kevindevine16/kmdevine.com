@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>The Figure Shortcode</title>
+      <link>https://example.com/oldpost/figure-shortcodefail/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://example.com/oldpost/figure-shortcodefail/</guid>
+      <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
+    </item>
+    
+    <item>
       <title>Placeholder Text</title>
       <link>https://example.com/oldpost/placeholder-text/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
@@ -77,6 +86,15 @@
       
       <guid>https://example.com/oldpost/image-test/</guid>
       <description>Thumbnails can be enabled easily by setting the thumbnail parameter in the frontmatter to an image such as &amp;quot;images/landscape.</description>
+    </item>
+    
+    <item>
+      <title>Guide to Thumbnails in Hugo</title>
+      <link>https://example.com/oldpost/image-testfail/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/oldpost/image-testfail/</guid>
+      <description>Thumbnails can be enabled easily by setting the thumbnail parameter in the frontmatter to an image such as &amp;quot;KMDevineBW.</description>
     </item>
     
   </channel>

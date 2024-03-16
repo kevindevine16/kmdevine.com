@@ -8,6 +8,8 @@ author = "Kevin Devine"
 
 ### Journal Articles
 
+* Devine, K. M., O Kiely, D., Vynnycky, M., Silveri, F., Tommasi, A., Abinaya, S., Geaney, H. and Ryan, K. M., 2022. A coupled electrochemomechanical model for the cycling of a Cu<sub>15</sub>Si<sub>4</sub>-hosted silicon nanowire. *Journal of Power Sources*, 529, pp. 231197, <a href="https://doi.org/10.1016/j.jpowsour.2022.231197" target="_blank" rel="noopener noreferrer"><span>https://<span></span>doi.org/10.1016/j.jpowsour.2022.231197</span> </a>.
+
 * Devine, K. M., Vynnycky, M., Mitchell, S. L. and O Brien, S. B. G., 2021. A validated asymptotic thermomechanical model for air-gap formation in tapered moulds in the continuous casting of steel. *IMA Journal of Applied Mathematics*, 86(2), pp.129-157, <a href="https://doi.org/10.1093/imamat/hxab003" target="_blank" rel="noopener noreferrer"><span>https://<span></span>doi.org/10.1093/imamat/hxab003</span> </a>.
 
 * Devine, K. M., Vynnycky, M., Mitchell, S. L. and O Brien, S. B. G., 2020. Analysis of a model for the formation of fold-type oscillation marks in the continuous casting of steel. *IMA Journal of Applied Mathematics*, 85(3), pp.385-420, <a href="https://doi.org/10.1093/imamat/hxaa010" target="_blank" rel="noopener noreferrer"><span>https://<span></span>doi.org/10.1093/imamat/hxaa010</span> </a>.

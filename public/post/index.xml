@@ -6,7 +6,43 @@
     <description>Recent content in Posts on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantitative Analyst at Flutter</title>
+      <link>https://example.com/post/flutter/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/flutter/</guid>
+      <description>After almost 2 wonderful years working in Met Éireann, I decided to move to a new role as Quantitative Analyst at Flutter UKI .</description>
+    </item>
+    
+    <item>
+      <title>Meteorologist at Met Éireann</title>
+      <link>https://example.com/post/meteorologist/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/meteorologist/</guid>
+      <description>In October 2022, I was promoted at Met Éireann  to the role of Machine Learning Meteorologist.</description>
+    </item>
+    
+    <item>
+      <title>A coupled electrochemomechanical model for the cycling of a Cu15Si4-hosted silicon nanowire</title>
+      <link>https://example.com/post/newpub4/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/newpub4/</guid>
+      <description>My latest work has been published in the Journal of power sources.</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral researcher at Met Éireann</title>
+      <link>https://example.com/post/meteireann/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/meteireann/</guid>
+      <description>In October 2021, I begun a new research position at Met Éireann .</description>
+    </item>
+    
     <item>
       <title>A validated asymptotic thermomechanical model for air-gap formation in tapered moulds in the continuous casting of steel</title>
       <link>https://example.com/post/newpub3/</link>
@@ -14,6 +50,15 @@
       
       <guid>https://example.com/post/newpub3/</guid>
       <description>My latest work has been published in the IMA Journal of Applied Mathematics.</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral researcher Si-Drive, UL</title>
+      <link>https://example.com/post/sidrvie/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/sidrvie/</guid>
+      <description>In 2020, I begun a postdoctoral research role in MACSI, Department of Mathematics and Statistics, University of LimerickL, researching nanowire technology in lithium ion battery anodes as part of the Si-Drive  consortium.</description>
     </item>
     
     <item>

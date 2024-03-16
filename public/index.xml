@@ -6,7 +6,43 @@
     <description>Recent content on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantitative Analyst at Flutter</title>
+      <link>https://example.com/post/flutter/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/flutter/</guid>
+      <description>After almost 2 wonderful years working in Met Éireann, I decided to move to a new role as Quantitative Analyst at Flutter UKI .</description>
+    </item>
+    
+    <item>
+      <title>Meteorologist at Met Éireann</title>
+      <link>https://example.com/post/meteorologist/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/meteorologist/</guid>
+      <description>In October 2022, I was promoted at Met Éireann  to the role of Machine Learning Meteorologist.</description>
+    </item>
+    
+    <item>
+      <title>A coupled electrochemomechanical model for the cycling of a Cu15Si4-hosted silicon nanowire</title>
+      <link>https://example.com/post/newpub4/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/newpub4/</guid>
+      <description>My latest work has been published in the Journal of power sources.</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral researcher at Met Éireann</title>
+      <link>https://example.com/post/meteireann/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/meteireann/</guid>
+      <description>In October 2021, I begun a new research position at Met Éireann .</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://example.com/oldpost/testt/</link>
@@ -35,12 +71,30 @@
     </item>
     
     <item>
+      <title>The Figure Shortcode</title>
+      <link>https://example.com/oldpost/figure-shortcodefail/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://example.com/oldpost/figure-shortcodefail/</guid>
+      <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
+    </item>
+    
+    <item>
       <title>Placeholder Text</title>
       <link>https://example.com/oldpost/placeholder-text/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/oldpost/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral researcher Si-Drive, UL</title>
+      <link>https://example.com/post/sidrvie/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/sidrvie/</guid>
+      <description>In 2020, I begun a postdoctoral research role in MACSI, Department of Mathematics and Statistics, University of LimerickL, researching nanowire technology in lithium ion battery anodes as part of the Si-Drive  consortium.</description>
     </item>
     
     <item>
@@ -76,7 +130,7 @@
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/about/</guid>
-      <description>I am a postdoctoral researcher in applied and industrial mathematics, currently researching the modelling of anodes in lithium ion batteries as part of the Si-Drive international consortium.</description>
+      <description>I currently work as a Quantitative Analyst for Flutter UKI, using mathematical and statistical modelling, machine learning and software development to make predictions in sport.</description>
     </item>
     
     <item>
@@ -94,7 +148,7 @@
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/publications/</guid>
-      <description>Journal Articles   Devine, K. M., Vynnycky, M., Mitchell, S.</description>
+      <description>Journal Articles   Devine, K. M., O Kiely, D., Vynnycky, M.</description>
     </item>
     
     <item>
@@ -149,6 +203,15 @@
       
       <guid>https://example.com/oldpost/image-test/</guid>
       <description>Thumbnails can be enabled easily by setting the thumbnail parameter in the frontmatter to an image such as &amp;quot;images/landscape.</description>
+    </item>
+    
+    <item>
+      <title>Guide to Thumbnails in Hugo</title>
+      <link>https://example.com/oldpost/image-testfail/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/oldpost/image-testfail/</guid>
+      <description>Thumbnails can be enabled easily by setting the thumbnail parameter in the frontmatter to an image such as &amp;quot;KMDevineBW.</description>
     </item>
     
     <item>

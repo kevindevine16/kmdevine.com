@@ -16,5 +16,14 @@
       <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
     </item>
     
+    <item>
+      <title>The Figure Shortcode</title>
+      <link>https://example.com/oldpost/figure-shortcodefail/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://example.com/oldpost/figure-shortcodefail/</guid>
+      <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
+    </item>
+    
   </channel>
 </rss>
