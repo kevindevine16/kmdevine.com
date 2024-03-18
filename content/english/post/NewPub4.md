@@ -6,7 +6,7 @@ description = "Testing a post"
 
 +++
 
-My latest work has been published in the Journal of power sources. The full text PDF can be found <a href="https://doi.org/10.1016/j.jpowsour.2022.231197" target="_blank" rel="noopener noreferrer"> <span>here</span> </a>.
+My latest work has been published in the Journal of Power Sources. The full text PDF can be found <a href="https://doi.org/10.1016/j.jpowsour.2022.231197" target="_blank" rel="noopener noreferrer"> <span>here</span> </a>.
 
 ## Abstract
 
